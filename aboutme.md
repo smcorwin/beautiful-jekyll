@@ -18,6 +18,10 @@ Worked with a multidisciplinary team of faculty and students to develop recommen
 
 Along with a multidisciplinary group of on-campus stakeholders, I helped make a recommendation to the Board of Trustees on Duke’s proposed on-campus 21 MW CHP plant. Contributed to evaluation of financial feasibility, the use of biogas, and potential alternatives using knowledge of the economics of electrical generation, CHP plants, and campus power networks.
 
+**Solar Spring Break** | March 2017
+
+Supported by the Duke University Energy Initiative, I spent Spring Break with six other Duke students in Fresno, CA, installing a solar array on a family's home with GRID Alternatives. [GRID Alternatives] (https://gridalternatives.org/) is a non-profit seeking to bring renewable energy to underserved communities. I [filmed and edited](https://www.youtube.com/watch?v=Spp3ySOloGU) a mini-documentary of our week in Fresno, which was also [reported on] (http://abc30.com/society/students-spend-spring-break-installing-solar-panels-for-fresno-families/1806361/) by two local [news outlets](http://www.yourcentralvalley.com/news/duke-university-students-spend-spring-break-in-fresno-installing-solar-panels-to-low-income-family/674345469).
+
 **Independent Study**: "The Growth and Development of China's Solar PV Market" | Spring 2016
 
 Under the direction of Dr. Tim Johnson, I examined the policy drivers behind the development of China’s international and domestic solar photovoltaic (PV) market, the effect on global solar PV prices, and the impact on the solar markets of Japan, Germany, and the U.S.
