@@ -11,9 +11,12 @@ Analyzing the development of China’s domestic solar PV energy market through a
 
 An article I wrote on China's solar energy market and the impact of tariffs imposed by the U.S. was published in [*The Diplomat*](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/).
 
+**Critical Language Enhancement Award**
+I spent my first four months in China on an intensive language immersion program in Harbin, China. My language study was focused on renewable energy research and terminology. 
+
 ### Asia Society Northern California | *Co-author*
 ##### November 2017 - Present | Nanjing, China
-Co-authoring a report on clean technology collaboration between the U.S. and China. I have been primarily responsible for a section on case studies regarding cleantech commercial collaboration, with a particular focus on market access, finance and investment, and research and development. Analyzing barriers to entry for private Chinese and American companies seeking to accessing one another's market and identifying how certain companies have been able to overcome these barriers. Investigating financing and investment channels for U.S.-China clean technology collaboration, such as equity investment, venture capital investments, and joint ventures. Report will be published during summer 2018.
+Co-authoring a report on clean technology collaboration between the U.S. and China. I have been primarily responsible for a section on case studies regarding commercial clean technology collaboration, with a particular focus on market access, finance and investment, and research and development. Analyzing barriers to entry for private Chinese and American companies seeking to access one another's market and identifying how certain companies have been able to overcome these barriers. Investigating financing and investment channels for U.S.-China clean technology collaboration, such as equity investment, venture capital investments, and joint ventures. Report will be published during summer 2018.
 
 ### Natural Resources Defense Council (NRDC) | *Energy Efficiency For All Intern* 
 ##### Summer 2016 | Washington, D.C.
