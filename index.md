@@ -11,4 +11,4 @@ I am an experienced renewable energy market and policy analyst with strong resea
 
 My writing and analysis has been featured in publications and on sites such as [*The Diplomat*](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/), [the NRDC](https://www.nrdc.org/experts/deron-lovaas/channel-square-where-sustainability-meets-affordability), and [Population Connection](http://www.populationconnectionaction.org/2015/12/17/food-security-a-formidable-foe-for-a-nation-of-1-3-billion/).
 
-You can read more about my professional experience [here](https://smcorwin.github.io/profex/).
+You can read more about my professional experience [here](https://smcorwin.github.io/profex/) or about myself and education [here](https://smcorwin.github.io/aboutme/). Feel free to connect with me below!
