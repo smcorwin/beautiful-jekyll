@@ -7,7 +7,7 @@ I was born and raised in Colorado Springs, CO. Since graduating from Duke in spr
 
 ## Education
 
-### Duke University | Durham, NC | Fall 2013 - Spring 2017 ![Duke logo]("Duke.jpg")
+### Duke University | Durham, NC | Fall 2013 - Spring 2017 ![Duke logo](https://github.com/smcorwin/smcorwin.github.io/blob/master/Duke.jpg)
 #### _Double B.A. majors in Environmental Science/Policy and Asian & Middle Eastern Studies (Chinese concentration)_
 
 **Energy Reports and Carbon Pricing Bass Connections** | Fall 2016 - Spring 2017
