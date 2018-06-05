@@ -26,6 +26,10 @@ Supported by the Duke University Energy Initiative, I spent Spring Break with si
 
 Under the direction of Dr. Tim Johnson, I examined the policy drivers behind the development of China’s international and domestic solar photovoltaic (PV) market, the effect on global solar PV prices, and the impact on the solar markets of Japan, Germany, and the U.S.
 
+**Marketing and Promotions Assistant at Duke Sports Marketing** | Fall 2014 - Spring 2017
+
+I helped with marketing and promotions at a multitude of Duke sporting events. I also served as the announcer at sporting events such as tennis, soccer, and field hockey.
+
 **Duke Summer in China** | Summer 2014
 
 Completed a year's worth of Mandarin Chinese while studying in Beijing on an intensive language immersion program. I was [featured](https://www.youtube.com/watch?v=-Y27Ui5NA4A) in a short video Duke put together along with fellow classmates from the summer (this was my first year studying Chinese, my speaking abilities have improved drastically since then!). 
