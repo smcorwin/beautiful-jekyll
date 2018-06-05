@@ -28,7 +28,7 @@ Under the direction of Dr. Tim Johnson, I examined the policy drivers behind the
 
 **Marketing and Promotions Assistant at Duke Sports Marketing** | Fall 2014 - Spring 2017
 
-I helped with marketing and promotions at a multitude of Duke sporting events. I also served as the announcer at sporting events such as tennis, soccer, and field hockey.
+Helped with marketing and promotions at a multitude of Duke sporting events. I also served as the announcer at sporting events such as tennis, soccer, and field hockey.
 
 **Duke Summer in China** | Summer 2014
 
