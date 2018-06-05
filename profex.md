@@ -12,6 +12,7 @@ Analyzing the development of China’s domestic solar PV energy market through a
 An article I wrote on China's solar energy market and the impact of tariffs imposed by the U.S. was published in [*The Diplomat*](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/).
 
 **Critical Language Enhancement Award**
+
 I spent my first four months in China on an intensive language immersion program in Harbin, China. My language study was focused on renewable energy research and terminology. 
 
 ### Asia Society Northern California | *Co-author*
