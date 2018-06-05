@@ -7,7 +7,7 @@ I was born and raised in Colorado Springs, CO. Since graduating from Duke in spr
 
 ## Education
 
-### Duke University | Durham, NC
+### Duke University | Durham, NC | Fall 2013 - Spring 2017
 #### _Double B.A. majors in Environmental Science/Policy and Asian & Middle Eastern Studies (Chinese concentration)_
 
 **Energy Reports and Carbon Pricing Bass Connections** | Fall 2016 - Spring 2017
@@ -30,9 +30,24 @@ Under the direction of Dr. Tim Johnson, I examined the policy drivers behind the
 
 Completed a year's worth of Mandarin Chinese while studying in Beijing on an intensive language immersion program. I was [featured](https://www.youtube.com/watch?v=-Y27Ui5NA4A) in a short video Duke put together along with fellow classmates from the summer (this was my first year studying Chinese, my speaking abilities have improved drastically since then!). 
 
-### Fudan University | Shanghai, China
-#### Boston University Shanghai Internship Study Abroad Program | Fall 2015
+### Fudan University | Shanghai, China | Fall 2015
+#### Boston University Shanghai Internship Study Abroad Program
 
 While studying abroad in Shanghai, I took a Chinese class, courses on Chinese politics and society, and interned part--time at a solar quality assurance, supply chain management, and engineering services firm.
 
+### Air Academy High School | Colorado Springs, CO | Fall 2009 - Spring 2013
+* Senior Speaker at Graduation
+* DECA (Distributive Education Clubs of America) Principles of Business Management: 1st place in the state of Colorado, 2013
+* Multimedia Gold Key (best in state award), Colorado Scholastic Art Show, 2013
+* 2012 Boulder Marathon: Finished first in the 16-19 age group
+* National Honor Society: 2011-2013; Air Academy Vice President, 2012-2013
+* FBLA (Future Business Leaders of America) District and State Awards: Business Math, 2011; Business Ethics and Business Calculations, 2012
+* Sociedad Honoraria Hispanica (Spanish Honor Society): 2010-2013
+* Art Honor Society: 2011-2013
+
+## Volunteer Work
+* GRID Alternatives: solar array installation
+* Durham Habitat for Humanity: construction projects
+* TwoCor Project for at-risk young men: mentor dinners and youth programs
+* Urban Peak Colorado Springs: Neighborhood collection of supplies for donation 
 
