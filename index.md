@@ -9,6 +9,6 @@ Since graduating from Duke University in spring 2017, I have been living in Chin
 
 I am an experienced renewable energy market and policy analyst with strong research and communication skills (in both English and Mandarin Chinese). I'm interested in using proven qualitative and quantitative problem-solving abilities to develop and implement innovative clean energy solutions as part of a team.
 
-My writing and analysis has been featured in publications and on sites such as [*The Diplomat*](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/" target="_blank), [the NRDC](https://www.nrdc.org/experts/deron-lovaas/channel-square-where-sustainability-meets-affordability), and [Population Connection](http://www.populationconnectionaction.org/2015/12/17/food-security-a-formidable-foe-for-a-nation-of-1-3-billion/).
+My writing and analysis has been featured in publications and on sites such as [*The Diplomat*](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/), [the NRDC](https://www.nrdc.org/experts/deron-lovaas/channel-square-where-sustainability-meets-affordability), and [Population Connection](http://www.populationconnectionaction.org/2015/12/17/food-security-a-formidable-foe-for-a-nation-of-1-3-billion/).
 
 You can read more [about me](https://smcorwin.github.io/aboutme/) and my [professional experience](https://smcorwin.github.io/profex/). Feel free to connect with me below!
