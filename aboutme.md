@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ""
-subtitle: About Me
+title: About Me
+subtitle: ""
 ---
 I was born and raised in Colorado Springs, CO, where my love of the outdoors was developed through outdoor activities such as hiking, camping, and snowboarding. My passion for environmental solutions led me to study environmental science and Chinese. Since graduating from Duke University in spring 2017, I have been living in China on a Fulbright research grant. When I'm not engrossed in my research, you can find me running, hiking, snowboarding, watching basketball, honing my photography and videography skills, listening to music, or reading.
 
@@ -48,7 +48,7 @@ Completed a year's worth of Mandarin Chinese while studying in Beijing on an int
 * Varsity Track, 2011-2013
 * Cross Country Senior Co-Captain, 2012
 * National Honor Society: 2011-2013; Air Academy Vice President, 2012-2013
-* FBLA (Future Business Leaders of America) District and State Awards: Business Math, 2011; Business Ethics and Business Calculations | 2012
+* FBLA (Future Business Leaders of America) District and State Awards: Business Math, 2011; Business Ethics and Business Calculations, 2012
 * Sociedad Honoraria Hispanica (Spanish Honor Society), 2010-2013
 * Art Honor Society, 2011-2013
 
