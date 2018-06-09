@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: ""
 ---
-I was born and raised in Colorado Springs, CO, where my love of the outdoors was developed through outdoor activities such as hiking, camping, and snowboarding. My passion for environmental solutions led me to study environmental science and Chinese. Since graduating from Duke University in spring 2017, I have been living in China on a Fulbright research grant. When I'm not engrossed in my research, you can find me running, hiking, snowboarding, watching basketball, honing my photography and videography skills, listening to music, or reading.
+I was born and raised in Colorado Springs, CO, where my love of the outdoors was developed through activities such as hiking, camping, and snowboarding. My passion for environmental solutions led me to study environmental science and Chinese. Since graduating from Duke University in spring 2017, I have been living in China on a Fulbright research grant. When I'm not engrossed in my research, you can find me running, hiking, snowboarding, watching basketball, honing my photography and videography skills, listening to music, or reading.
 
 # *Education*
 
@@ -30,6 +30,10 @@ I examined the policy drivers behind the development of China’s international 
 **Boston University Shanghai Internship Study Abroad Program at Fudan University** | Fall 2015
 
 Seeking to combine my environmental science and Chinese studies in a study abroad experience, I petitioned Duke to all me to particpate in Boston University's Shanghai Internship Program. The program is now on Duke's list of pre-approved study abroad programs. While studying abroad in Shanghai, I took a Chinese class, courses on Chinese politics and society, and interned part-time at a solar quality assurance, supply chain management, and engineering services firm.
+
+**Delegate to the [Duke-UNC China Leadership Summit](https://www.dukeunccls.com/)** | 2015, 2016
+
+Served as a delegate to the Duke-UNC China Leadership Summit two years in a row. The Summit brings together students from around the world to convene with experts in Sino-U.S. relations and exchange perspectives.
 
 **Marketing and Promotions Assistant at Duke Sports Marketing** | Fall 2014 - Spring 2017
 
