@@ -42,15 +42,15 @@ Completed a year's worth of Mandarin Chinese while studying in Beijing on an int
 ### Air Academy High School | Colorado Springs, CO | Fall 2009 - Spring 2013
 * Senior Speaker at Graduation
 * Graduated Summa Cum Laude (GPA over 4.6)
-* DECA (Distributive Education Clubs of America) Principles of Business Management: 1st place in the state of Colorado | 2013
-* Multimedia Gold Key (best in state award), Colorado Scholastic Art Show | 2013
+* DECA (Distributive Education Clubs of America) Principles of Business Management: 1st place in the state of Colorado, 2013
+* Multimedia Gold Key (best in state award), Colorado Scholastic Art Show, 2013
 * 2012 Boulder Marathon: Finished first in the 16-19 age group
-* Varsity Track | 2011-2013
-* Cross Country Senior Co-Captain | 2012
-* National Honor Society: 2011-2013; Air Academy Vice President | 2012-2013
+* Varsity Track, 2011-2013
+* Cross Country Senior Co-Captain, 2012
+* National Honor Society: 2011-2013; Air Academy Vice President, 2012-2013
 * FBLA (Future Business Leaders of America) District and State Awards: Business Math, 2011; Business Ethics and Business Calculations | 2012
-* Sociedad Honoraria Hispanica (Spanish Honor Society) | 2010-2013
-* Art Honor Society | 2011-2013
+* Sociedad Honoraria Hispanica (Spanish Honor Society), 2010-2013
+* Art Honor Society, 2011-2013
 
 ## Volunteer Work
 * Teaching a public speaking and communication class for Chinese high school students in Nanjing
