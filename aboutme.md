@@ -5,7 +5,7 @@ subtitle: ""
 ---
 I was born and raised in Colorado Springs, CO, where my love of the outdoors was developed through outdoor activities such as hiking, camping, and snowboarding. My passion for environmental solutions led me to study environmental science and Chinese. Since graduating from Duke University in spring 2017, I have been living in China on a Fulbright research grant. When I'm not engrossed in my research, you can find me running, hiking, snowboarding, watching basketball, honing my photography and videography skills, listening to music, or reading.
 
-## __Education__
+# *Education*
 
 ### Duke University | Durham, NC | Fall 2013 - Spring 2017 
 #### _Double B.A. majors in Environmental Science/Policy and Asian & Middle Eastern Studies (Chinese concentration)_ 
@@ -52,7 +52,7 @@ Completed a year's worth of Mandarin Chinese while studying in Beijing on an int
 * Sociedad Honoraria Hispanica (Spanish Honor Society), 2010-2013
 * Art Honor Society, 2011-2013
 
-## Volunteer Work
+# *Volunteer Work*
 * Teaching a public speaking and communication class for Chinese high school students in Nanjing
 * GRID Alternatives: solar array installation
 * Durham Habitat for Humanity: construction projects
