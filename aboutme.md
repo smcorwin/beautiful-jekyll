@@ -42,7 +42,7 @@ Completed a year's worth of Mandarin Chinese while studying in Beijing on an int
 ### Air Academy High School | Colorado Springs, CO | Fall 2009 - Spring 2013
 * Senior Speaker at Graduation
 * Graduated Summa Cum Laude (GPA over 4.6)
-* DECA (Distributive Education Clubs of America) Principles of Business Management: 1st place in the state of Colorado, 2013
+* DECA (Distributive Education Clubs of America) Principles of Business Management: 1st place in the state of Colorado | 2013
 * Multimedia Gold Key (best in state award), Colorado Scholastic Art Show | 2013
 * 2012 Boulder Marathon: Finished first in the 16-19 age group
 * Varsity Track | 2011-2013
