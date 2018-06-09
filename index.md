@@ -11,4 +11,4 @@ Since graduating from Duke University in spring 2017, I have been living in Chin
 
 My writing and analysis has been featured in publications and on sites such as [*The Diplomat*](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/), [the NRDC](https://www.nrdc.org/experts/deron-lovaas/channel-square-where-sustainability-meets-affordability), and [Population Connection](http://www.populationconnectionaction.org/2015/12/17/food-security-a-formidable-foe-for-a-nation-of-1-3-billion/).
 
-You can read more [about my background and interests](https://smcorwin.github.io/aboutme/) and my [professional experience](https://smcorwin.github.io/profex/). Feel free to connect with me below!
+You can read more [about my background and interests](https://smcorwin.github.io/aboutme/) and my [work experience](https://smcorwin.github.io/profex/). Feel free to connect with me below!
