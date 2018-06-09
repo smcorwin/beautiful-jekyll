@@ -1,7 +1,7 @@
 ---
 layout: page
-title: __About Me__
-subtitle: ""
+title: ""
+subtitle: About Me
 ---
 I was born and raised in Colorado Springs, CO, where my love of the outdoors was developed through outdoor activities such as hiking, camping, and snowboarding. My passion for environmental solutions led me to study environmental science and Chinese. Since graduating from Duke University in spring 2017, I have been living in China on a Fulbright research grant. When I'm not engrossed in my research, you can find me running, hiking, snowboarding, watching basketball, honing my photography and videography skills, listening to music, or reading.
 
