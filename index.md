@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Samuel M. Corwin
+title: Samuel Corwin
 subtitle: ""
 use-site-title: true
 ---
