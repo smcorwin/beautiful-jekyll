@@ -29,7 +29,7 @@ I examined the policy drivers behind the development of China’s international 
 
 **Boston University Shanghai Internship Study Abroad Program at Fudan University** | Fall 2015
 
-Seeking to combine my environmental science and Chinese studies in a study abroad experience, I petitioned Duke to all me to particpate in Boston University's Shanghai Internship Program. The program is now on Duke's list of pre-approved study abroad programs. While studying abroad in Shanghai, I took a Chinese class, courses on Chinese politics and society, and interned part-time at a solar quality assurance, supply chain management, and engineering services firm.
+Seeking to combine my environmental science and Chinese studies in a study abroad experience, I petitioned Duke to allow me to particpate in Boston University's Shanghai Internship Program. The program is now on Duke's list of pre-approved study abroad programs. While studying abroad in Shanghai, I took a Chinese class and courses on Chinese politics and society and interned part-time at a solar quality assurance, supply chain management, and engineering services firm.
 
 **Delegate to the [Duke-UNC China Leadership Summit](https://www.dukeunccls.com/)** | 2015, 2016
 
