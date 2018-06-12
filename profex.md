@@ -5,13 +5,13 @@ subtitle: ""
 ---
 
 
-### The Fulbright Program | *Fulbright Fellow*
+### Fulbright U.S. Student Program | *Fulbright Fellow*
 ##### July 2017 - Present | Nanjing, China
-Writing a report about the development of China’s domestic solar PV energy market through analysis of electricity market reforms, policy changes, and local government support. Investigating the prevalence of local protectionism by comparing provincial-level manufacturing output, installation subsidies, and installation statistics. Conducting interviews with representatives from business, government, and academic sectors to compile a comprehensive report about the role of local governments in determining the layout of China’s solar energy market. Report to be completed in August 2018.
+Researching the development of China’s domestic solar PV energy market through analysis of electricity market reforms, policy changes, and local government support. Investigating the prevalence of local protectionism by comparing provincial-level manufacturing output, installation subsidies, and installation statistics. Conducting interviews with representatives from business, government, and academic sectors to compile a comprehensive report about the role of local governments in determining the layout of China’s solar energy market. Report to be completed in August 2018.
 
 [Published an article](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/) in *The Diplomat* about China's solar energy market and the impact of tariffs imposed by the U.S.
 
-### Asia Society Northern California | *Co-author*
+### Asia Society Northern California | *Co-Author and Analyst*
 ##### November 2017 - Present | Nanjing, China
 Co-authoring a report on clean technology collaboration between the U.S. and China. Responsible for a section on case studies regarding commercial clean technology collaboration, with a focus on market access, finance and investment, and research and development. Analyzing barriers to entry for private Chinese and American companies seeking to access each other's market and identifying how certain companies have been able to overcome these barriers. Investigating financing and investment channels for U.S.-China clean technology collaboration, such as equity investment, venture capital investments, and joint ventures. Report will be published during summer 2018.
 
