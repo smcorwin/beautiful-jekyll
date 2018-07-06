@@ -9,7 +9,7 @@ subtitle: ""
 ##### July 2017 - Present | Nanjing, China
 Researching the development of China’s domestic solar PV energy market through analysis of electricity market reforms, policy changes, and local government support. Investigating the prevalence of local protectionism by comparing provincial-level manufacturing output, installation subsidies, and installation statistics. Conducting interviews with representatives from business, government, and academic sectors to compile a comprehensive report about the role of local governments in determining the layout of China’s solar energy market. Report to be completed in August 2018.
 
-[Published an article](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/) in *The Diplomat* about China's solar energy market and the impact of tariffs imposed by the U.S.
+Published articles in *The Diplomat* about [a disconnect](https://thediplomat.com/2018/06/how-china-can-make-the-most-of-its-solar-energy-boom/) between national incentives and local realities in China's solar energy market and the [impact of trade tariffs](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/) imposed by the U.S.
 
 ### Asia Society Northern California | *Co-Author and Analyst*
 ##### November 2017 - Present | Nanjing, China
