@@ -13,7 +13,7 @@ Published articles in *The Diplomat* about [a disconnect](https://thediplomat.co
 
 ### Asia Society Northern California | *Co-Author and Analyst*
 ##### November 2017 - Present | Nanjing, China
-Co-authoring a report on clean technology collaboration between the U.S. and China. Responsible for a section on case studies regarding commercial clean technology collaboration, with a focus on market access, finance and investment, and research and development. Analyzing barriers to entry for private Chinese and American companies seeking to access each other's market and identifying how certain companies have been able to overcome these barriers. Investigating financing and investment channels for U.S.-China clean technology collaboration, such as equity investment, venture capital investments, and joint ventures. Report will be published during summer 2018.
+[Co-authored a report](https://asiasociety.org/northern-california/coordinated-strategies-asia-society-special-report) on clean technology collaboration between the U.S. and China. Responsible for a section on case studies regarding commercial clean technology collaboration, with a focus on market access, finance and investment, and research and development. Analyzing barriers to entry for private Chinese and American companies seeking to access each other's market and identifying how certain companies have been able to overcome these barriers. Investigating financing and investment channels for U.S.-China clean technology collaboration, such as equity investment, venture capital investments, and joint ventures. Report will be published during summer 2018.
 
 ### Natural Resources Defense Council (NRDC) | *Energy Efficiency For All Stanback Fellow* 
 ##### Summer 2016 | Washington, D.C.
