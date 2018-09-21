@@ -6,13 +6,13 @@ subtitle: ""
 
 
 ### Fulbright U.S. Student Program | *Fulbright Fellow*
-##### July 2017 - Present | Nanjing, China
+##### July 2017 - August 2018 | Nanjing, China
 Researched the development of China’s domestic solar PV energy market through analysis of electricity market reforms, policy changes, and local government support. Investigated the prevalence of local protectionism by comparing provincial-level manufacturing output, installation subsidies, and installation statistics. Conducted interviews with representatives from business, government, and academic sectors to compile a comprehensive report about the role of local governments in determining the layout of China’s solar energy market. Report pending publication.
 
 Published articles in *The Diplomat* about [a disconnect](https://thediplomat.com/2018/06/how-china-can-make-the-most-of-its-solar-energy-boom/) between national incentives and local realities in China's solar energy market and the [impact of trade tariffs](https://thediplomat.com/2018/02/chinas-solar-power-dominance-and-trumps-trade-tariffs/) imposed by the U.S.
 
 ### Asia Society Northern California | *Co-Author and Analyst*
-##### November 2017 - Present | Nanjing, China
+##### November 2017 - August 2018 | Nanjing, China
 [Co-authored a report](https://asiasociety.org/northern-california/coordinated-strategies-asia-society-special-report) on clean technology collaboration between the U.S. and China. Responsible for a section on case studies regarding commercial clean technology collaboration, with a focus on market access, finance and investment, and research and development. Analyzed barriers to entry for private Chinese and American companies seeking to access each other's market and identifying how certain companies have been able to overcome these barriers. Investigated financing and investment channels for U.S.-China clean technology collaboration, such as equity investment, venture capital investments, and joint ventures. [Full report was published](https://asiasociety.org/sites/default/files/2018-09/Asia%20Society%20-%20Coordinated%20Strategies%20Special%20Report.pdf) in September 2018.
 
 ### Natural Resources Defense Council (NRDC) | *Energy Efficiency For All Stanback Fellow* 
